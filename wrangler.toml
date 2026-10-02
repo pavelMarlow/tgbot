@@ -1,0 +1,13 @@
+name = "parohod-miniapp"
+main = "worker/index.js"
+workers_dev = true
+compatibility_date = "2026-09-01"
+[assets]
+directory = "./public"
+binding = "ASSETS"
+[[d1_databases]]
+binding = "DB"
+database_name = "parohod-db"
+database_id = "cad91815-a155-4dff-86ad-0d62e207083c"
+[vars]
+ADMIN_IDS = "8204734421,5094075415"

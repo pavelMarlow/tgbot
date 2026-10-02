@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Солевая монашка",
+    "price_rub": 450,
+    "photo_status": "unverified",
+    "photo_source": "",
+    "note": ""
+  },
+  {
+    "name": "Злая монашка",
+    "price_rub": 500,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://xn--80aaxitdbjk.xn--p1ai/product/zlaya-monashka-pina-kolada/",
+    "note": "Retail product photo (line; flavor unspecified)"
+  },
+  {
+    "name": "DUALL X Злая монашка",
+    "price_rub": 500,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://xn--1-8sbad5bxa5a6byb.online/catalog/zhidkosti/zlaya-monashka/duall-x-zlaya-monashka-hard/sour_4/duall-x-zlaya-monashka-sour-hard-kislaya-smorodina-vinograd-30-ml/",
+    "note": "Retail product photo (line; flavor unspecified)"
+  },
+  {
+    "name": "ISTERIKA X Самоубийца",
+    "price_rub": 500,
+    "photo_status": "unverified",
+    "photo_source": "",
+    "note": ""
+  },
+  {
+    "name": "ISTERIKA CLASSIC",
+    "price_rub": 450,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://isterika-salt.ru/isterika_classic",
+    "note": "Manufacturer collection page (line; flavor unspecified)"
+  },
+  {
+    "name": "Грех X ISTERIKA",
+    "price_rub": 450,
+    "photo_status": "bundled",
+    "photo_source": "https://isterika-salt.ru/isterika_greh",
+    "note": "Real catalog/product-line photo included in media; flavor/color may differ"
+  },
+  {
+    "name": "Rick and Morty Bad Acid",
+    "price_rub": 500,
+    "photo_status": "bundled",
+    "photo_source": "Public product-line photograph — original source metadata unavailable; use only after rights check.",
+    "note": "Real catalog/product-line photo included in media; flavor/color may differ"
+  },
+  {
+    "name": "ICE FOX extra hard",
+    "price_rub": 550,
+    "photo_status": "unverified",
+    "photo_source": "",
+    "note": ""
+  },
+  {
+    "name": "Картридж Xros 0.6",
+    "price_rub": 250,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-series-pods-4pcs",
+    "note": "Official Vaporesso XROS pod 0.6 option"
+  },
+  {
+    "name": "Картридж Xros 0.8",
+    "price_rub": 250,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-series-pods-4pcs",
+    "note": "Official Vaporesso XROS pod 0.8 option"
+  },
+  {
+    "name": "Картридж Xros 0.4",
+    "price_rub": 250,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-series-pods-4pcs",
+    "note": "Official Vaporesso XROS pod 0.4 option"
+  },
+  {
+    "name": "Картридж Pasito K-5",
+    "price_rub": 250,
+    "photo_status": "unverified",
+    "photo_source": "",
+    "note": ""
+  },
+  {
+    "name": "Xros 6",
+    "price_rub": 2300,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-6",
+    "note": "Official Vaporesso model page"
+  },
+  {
+    "name": "Xros 6 mini",
+    "price_rub": 1600,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-6-mini",
+    "note": "Official Vaporesso model page"
+  },
+  {
+    "name": "Xros 5 mini",
+    "price_rub": 1500,
+    "photo_status": "bundled",
+    "photo_source": "https://store.vaporesso.com/products/xros-5-mini",
+    "note": "Real catalog/product-line photo included in media; flavor/color may differ"
+  },
+  {
+    "name": "Xros mini",
+    "price_rub": 1100,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.vaporesso.com/products/xros-mini",
+    "note": "Official Vaporesso model page"
+  },
+  {
+    "name": "AEGIS BOOST 3 KIT",
+    "price_rub": 2600,
+    "photo_status": "bundled",
+    "photo_source": "https://store.geekvape.com/products/geekvape-aegis-boost-3-pod-kit-3000mah",
+    "note": "Real catalog/product-line photo included in media; flavor/color may differ"
+  },
+  {
+    "name": "Aegis Nano 3",
+    "price_rub": 2200,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://store.geekvape.com/products/geekvape-aegis-nano-3-kit-1600mah",
+    "note": "Official Geekvape model page"
+  },
+  {
+    "name": "Aegis Hero 5 Racing",
+    "price_rub": 2500,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://www.huffandpuffers.com/products/geekvape-aegis-hero-5",
+    "note": "Hero 5 Racing product variant page"
+  },
+  {
+    "name": "Aegis H45 Classic",
+    "price_rub": 2300,
+    "photo_status": "bundled",
+    "photo_source": "https://indavape.ru/product/nabor-geekvape-aegis-hero-3-h45-classic-pod-kit",
+    "note": "Real catalog/product-line photo included in media; flavor/color may differ"
+  },
+  {
+    "name": "Pasito 3",
+    "price_rub": 3000,
+    "photo_status": "external_on_demand",
+    "photo_source": "https://smoant.com/pod-systems/s052-pasito-3/",
+    "note": "Official Smoant Pasito III page"
+  }
+]

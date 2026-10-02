@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Солевая монашка",
+    "category": "Жидкости",
+    "price": 450,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 2,
+    "name": "Злая монашка",
+    "category": "Жидкости",
+    "price": 500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 3,
+    "name": "DUALL X Злая монашка",
+    "category": "Жидкости",
+    "price": 500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 4,
+    "name": "ISTERIKA X Самоубийца",
+    "category": "Жидкости",
+    "price": 500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 5,
+    "name": "ISTERIKA CLASSIC",
+    "category": "Жидкости",
+    "price": 450,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 6,
+    "name": "Грех X ISTERIKA",
+    "category": "Жидкости",
+    "price": 450,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 7,
+    "name": "Rick and Morty Bad Acid",
+    "category": "Жидкости",
+    "price": 500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 8,
+    "name": "ICE FOX extra hard",
+    "category": "Жидкости",
+    "price": 550,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 9,
+    "name": "Картридж Xros 0.6",
+    "category": "Расходники",
+    "price": 250,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 10,
+    "name": "Картридж Xros 0.8",
+    "category": "Расходники",
+    "price": 250,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 11,
+    "name": "Картридж Xros 0.4",
+    "category": "Расходники",
+    "price": 250,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 12,
+    "name": "Картридж Pasito K-5",
+    "category": "Расходники",
+    "price": 250,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 13,
+    "name": "Xros 6",
+    "category": "Устройства",
+    "price": 2300,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 14,
+    "name": "Xros 6 mini",
+    "category": "Устройства",
+    "price": 1600,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 15,
+    "name": "Xros 5 mini",
+    "category": "Устройства",
+    "price": 1500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 16,
+    "name": "Xros mini",
+    "category": "Устройства",
+    "price": 1100,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 17,
+    "name": "AEGIS BOOST 3 KIT",
+    "category": "Устройства",
+    "price": 2600,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 18,
+    "name": "Aegis Nano 3",
+    "category": "Устройства",
+    "price": 2200,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 19,
+    "name": "Aegis Hero 5 Racing",
+    "category": "Устройства",
+    "price": 2500,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 20,
+    "name": "Aegis H45 Classic",
+    "category": "Устройства",
+    "price": 2300,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  },
+  {
+    "id": 21,
+    "name": "Pasito 3",
+    "category": "Устройства",
+    "price": 3000,
+    "description": "",
+    "image_url": "",
+    "available": 0
+  }
+]

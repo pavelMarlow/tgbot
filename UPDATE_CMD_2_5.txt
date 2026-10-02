@@ -1,0 +1,8 @@
+ParoHod 2.5: вставлять команды в обычный CMD из папки parohod-miniapp.
+
+npx wrangler whoami
+echo Проверяем, что это аккаунт ParoHod, не X VPN! Если неверный - Ctrl+C.
+pause
+npx wrangler d1 export parohod-db --remote --output=parohod-backup-before-2.5.sql && npx wrangler d1 execute parohod-db --remote --file=./upgrade_2_5.sql && npx wrangler deploy --dry-run && npx wrangler deploy && npx wrangler d1 execute parohod-db --remote --command="SELECT COUNT(*) AS total FROM products;" && npx wrangler secret list
+
+Не запускайте schema.sql/catalog_21.sql/photo_migration.sql. Не публикуйте скриншоты с BOT_TOKEN.

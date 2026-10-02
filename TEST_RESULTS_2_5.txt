@@ -1,0 +1,10 @@
+ParoHod 2.5 local QA (not a live production deployment)
+- Node test suite: 23 / 23 passed.
+- Python catalog assertions passed: 21 unique products, exact prices.
+- SQLite migration applied twice without loss of an existing product or uploaded product_photos entry.
+- HTML unique IDs and SVG symbol references validated.
+- Offline Chromium interaction tests passed at 320x568, 375x812, 390x844, 768x900.
+- Role visibility smoke passed: guest, ordinary, admin.
+- Availability bulk endpoint tests verify signed admin and photo preservation.
+- Inquiry endpoint tests verify signed Telegram, input checks and delivery to two admins (mocked Telegram API).
+- Live Cloudflare deployment, real D1 migration and Telegram notification delivery were NOT performed here.
